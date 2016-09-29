@@ -1,2 +1,2 @@
 # hello-world
-one way of improving technology
+i am a computer guru or wizard
